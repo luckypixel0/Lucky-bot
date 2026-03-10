@@ -77,7 +77,7 @@ class DescriptionEmbedPaginator(menus.ListPageSource):
         maximum = self.get_max_pages()
         if maximum > 1:
             self.embed.set_footer(
-                text=f"🍀 Page {menu.current_page + 1}/{maximum} • {menu.ctx.author.display_name} | Lucky Bot • lucky.gg"
+                text=f"🍀 Page {menu.current_page + 1}/{maximum} • {menu.ctx.author.display_name} | Lucky Bot • https://discord.gg/q2DdzFxheA"
             )
         return self.embed
 
