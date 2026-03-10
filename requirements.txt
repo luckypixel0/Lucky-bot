@@ -1,0 +1,26 @@
+# Lucky Bot — Requirements
+discord.py>=2.3.0
+jishaku
+mcstatus
+aiohttp
+flask
+requests
+pymongo
+wavelink>=2.0.0
+httpx
+motor
+numpy
+aiosqlite
+gtts
+langdetect
+python-dotenv
+PyYAML
+openai
+duckduckgo-search==6.3.6
+pillow==11.0.0
+colorama
+chess
+python-dateutil
+deep-translator==1.11.4
+discord-ext-menus @ git+https://github.com/Rapptz/discord-ext-menus
+psutil
